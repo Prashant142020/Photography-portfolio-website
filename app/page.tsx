@@ -1,4 +1,3 @@
- 
 import NavBar from '@/components/common/NavBar';
 import AboutSection from '@/components/sections/AboutSection';
 import FaqSection from '@/components/sections/FaqSection';
